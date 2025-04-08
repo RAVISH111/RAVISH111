@@ -39,21 +39,7 @@
 
 ---
 
-<img align="center" width="100%" height="400px" src="https://github.com/ravish111/ravish111/assets/121092445/5809b6eb-0447-4f8b-a4e8-4fb8149528ef">
-
----
-
-**<i><h3 align="left">Course Badges:</h3></i>**
- <div>
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/KxVM0SHGIb%2BwtML8Qh2Mlkk1uhzIoUNmxQyAUcGz5fk%3D" alt="2">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/WRkyESR3PqqNWtl%2BzErShTvUBf332GvmNhwnIiWNd6g%3D" alt="3">
-<!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="4"> -->
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/gP0%2BO8fUp0b6T0JRuscTLpeSaE1uBo9lHtxV0VVk4GU%3D" alt="5">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/sw0jegrgpxW7u2QJcbTXg7rnnY58bR2NfTLhLuUEmTA%3D" alt="6">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/G6fAOZvKvkwKWNMDHKJYxBqu7x1Jp0AaCNfGLKn8vR0%3D" alt="7">
-<!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="8">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="9"> -->
-</div>
+<img align="center" width="100%" height="400px" src="main.gif">
 
 
 
