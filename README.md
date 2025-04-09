@@ -4,8 +4,7 @@
  
   I am a <b>Frontend Developer</b> passionate about building <b>responsive, accessible, and user-friendly</b> web applications using modern tools and frameworks like <b>HTML, CSS, JavaScript, and React</b>.  
   <br><br>
-  I recently completed an intensive web development program at <a href="https://masaischool.com/" target="_blank"><b>Masai School</b></a>,  
-  where I gained hands-on experience through real-world projects and team collaborations. During this time, I built multiple applications using  <b>React, implemented routing with React Router, managed global state using Context API, and integrated RESTful APIs for dynamic content.</b>.  
+  I recently completed an intensive web development program at <a href="https://masaischool.com/" target="_blank"><b>Masai School</b></a>, where I gained hands-on experience through real-world projects and team collaborations. During this time, I built multiple applications using  <b>React, implemented routing with React Router, managed global state using Context API, and integrated RESTful APIs for dynamic content.</b>.  
   <br><br>
   My projects also include features like <b>authentication, CRUD operations, and interactive UI components</b>, showcasing my ability to build complete frontend solutions. I’ve worked with tools like <b>Git, VS Code, and Chrome DevTools</b>, and I’m comfortable using component-based <b>architecture and responsive design principles</b>.
   <br><br>
